@@ -1,6 +1,6 @@
-# flutter_application_1
+# Hackathon Banaha - Flutter Application
 
-A new Flutter project.
+A Flutter project for the Hackathon Banaha.
 
 ## Getting Started
 
